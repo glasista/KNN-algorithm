@@ -1,0 +1,9 @@
+123.000 43.000 kobieta
+180.000 70.000 mezczyzna
+186.000 54.000 mezczyzna
+123 54.2 kobieta
+123 43 dziecko
+123 84 dziecko
+190 89 mezczyzna
+187.6 78 mezczyzna
+156.3 45 kobieta
